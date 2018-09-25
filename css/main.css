@@ -1,9 +1,10 @@
 h2{
     font-family: "Print Char 21";
-    src:  url('PrintChar21.ttf') format('truetype');
+    src:  url('/fonts/PrintChar21.ttf') format('truetype');
     font-size: 36px;
     font-style: normal;
-    background-color: #105f00;
+    background-color: black;
+    color:#105f00;
     margin: 0 15px;
     padding: 20px 15px;
     float: left;
