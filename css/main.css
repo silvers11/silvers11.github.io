@@ -5,7 +5,10 @@ h2{
     font-style: normal;
     color:#105f00;
     background-color: black;
-    margin: 0 15px;
     padding: 20px 15px;
     float: left;
     }
+
+.sildeshow-image{
+    position: absolute;
+}
